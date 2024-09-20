@@ -1,0 +1,20 @@
+body {
+    background-color: #1d1f21;
+    color: #ffffff;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.text-white {
+    color: white !important;
+}
+
+.graph-container {
+    background-color: #2b2e31;
+    padding: 15px;
+    border-radius: 5px;
+}
